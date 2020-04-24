@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c16c335c-15a9-41d7-803e-0dd8cb4a5818" name="laravel_cms" url="/dev.bm">
+        <fileTransfer port="0" mountedRoot="C:\xampp\apache" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
